@@ -7,6 +7,7 @@ This project is an interactive IPL Analysis Dashboard built using Microsoft Powe
 The dashboard enables users to explore team performances, player statistics, venue-wise records, and season-wise insights in an intuitive and interactive manner.
 
 2. 🚀 Features
+   
 •	Season-wise IPL analysis using slicers
 •	Title winner summary
 •	Orange Cap (Most Runs) statistics
@@ -29,6 +30,7 @@ The dashboard enables users to explore team performances, player statistics, ven
 
 
 3. 🛠️ Tools & Technologies
+
 •	Microsoft Power BI
 •	Power Query
 •	DAX (Data Analysis Expressions)
@@ -36,6 +38,7 @@ The dashboard enables users to explore team performances, player statistics, ven
 •	Interactive Visualizations
 
 4. 📊 Dashboard Highlights
+   
 •	Dynamic filters for season and player selection
 •	KPI cards for tournament records
 •	Interactive bar charts and donut charts
@@ -43,19 +46,22 @@ The dashboard enables users to explore team performances, player statistics, ven
 •	Easy-to-understand insights for cricket enthusiasts and analysts
 
 5. 📁 Repository Contents
+
 •	IPL Analysis.pbix – Power BI Dashboard
 •	Dataset – IPL data used for analysis
 •	Images – Dashboard screenshots
 •	README.md – Project documentation
 
-6. 📈 Key Insights
+6.📈 Key Insights
+
 •	Compare team performances across seasons.
 •	Analyze batting and bowling records of individual players.
 •	Identify the impact of toss decisions on match outcomes.
 •	Explore venue-wise winning trends.
 •	Understand tournament-wide statistics through interactive visualizations.
 
-7. 🎯 Learning Outcomes
+7.🎯 Learning Outcomes
+   
 This project helped me gain hands-on experience in:
 
 •	Data cleaning and transformation using Power Query
@@ -65,4 +71,5 @@ This project helped me gain hands-on experience in:
 •	Presenting data-driven insights using Power BI
 
 8. Screenshots
+   https://github.com/Ankith020/IPL-Analysis-Dashboard/blob/main/Screenshot%20(60).png
 
