@@ -1,12 +1,12 @@
 # IPL-Analysis-Dashboard
 
-1.📌 Project Overview
+# Project Overview
 
 This project is an interactive IPL Analysis Dashboard built using Microsoft Power BI. It provides comprehensive insights into Indian Premier League (IPL) matches, teams, players, and tournament statistics through dynamic visualizations and filters.
 
 The dashboard enables users to explore team performances, player statistics, venue-wise records, and season-wise insights in an intuitive and interactive manner.
 
-2. 🚀 Features
+# 🚀 Features
    
 •	Season-wise IPL analysis using slicers
 •	Title winner summary
@@ -29,7 +29,7 @@ The dashboard enables users to explore team performances, player statistics, ven
 •	Match result distribution (Runs, Wickets, Super Over, No Result)
 
 
-3. 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 •	Microsoft Power BI
 •	Power Query
@@ -37,7 +37,7 @@ The dashboard enables users to explore team performances, player statistics, ven
 •	Data Modeling
 •	Interactive Visualizations
 
-4. 📊 Dashboard Highlights
+# 📊 Dashboard Highlights
    
 •	Dynamic filters for season and player selection
 •	KPI cards for tournament records
@@ -45,14 +45,14 @@ The dashboard enables users to explore team performances, player statistics, ven
 •	Clean and visually appealing dashboard design
 •	Easy-to-understand insights for cricket enthusiasts and analysts
 
-5. 📁 Repository Contents
+# 📁 Repository Contents
 
 •	IPL Analysis.pbix – Power BI Dashboard
 •	Dataset – IPL data used for analysis
 •	Images – Dashboard screenshots
 •	README.md – Project documentation
 
-6.📈 Key Insights
+# 📈 Key Insights
 
 •	Compare team performances across seasons.
 •	Analyze batting and bowling records of individual players.
@@ -60,7 +60,7 @@ The dashboard enables users to explore team performances, player statistics, ven
 •	Explore venue-wise winning trends.
 •	Understand tournament-wide statistics through interactive visualizations.
 
-7.🎯 Learning Outcomes
+# 🎯 Learning Outcomes
    
 This project helped me gain hands-on experience in:
 
@@ -70,7 +70,7 @@ This project helped me gain hands-on experience in:
 •	Designing interactive dashboards
 •	Presenting data-driven insights using Power BI
 
-8. Screenshots
+# Screenshots
    
    https://github.com/Ankith020/IPL-Analysis-Dashboard/blob/main/Screenshot%20(60).png
 
