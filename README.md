@@ -71,5 +71,6 @@ This project helped me gain hands-on experience in:
 •	Presenting data-driven insights using Power BI
 
 8. Screenshots
+   
    https://github.com/Ankith020/IPL-Analysis-Dashboard/blob/main/Screenshot%20(60).png
 
